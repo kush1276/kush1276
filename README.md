@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Working on: Improving my Designing Skills and Startup.<br>🌱 Learning: JavaScript and exploring backend architecture.<br>💻 Tech Stack: Python, HTML/CSS, Go, and JavaScript.<br>🎸 Offline Interests: Playing Guitar and Playing Badminton.<br>⚡ Fun Fact: I'm obsessed with solving logic puzzles and complex aptitude challenges.<br>
+🔭 Working on: Improving my Designing Skills and Startup.<br><br>🌱 Learning: JavaScript and exploring backend architecture.<br><br>💻 Tech Stack: Python, HTML/CSS, Go, and JavaScript.<br><br>🎸 Offline Interests: Playing Guitar and Playing Badminton.<br><br>⚡ Fun Fact: I'm obsessed with solving logic puzzles and complex aptitude challenges.<br><br>
 
 
 ## 🌐 Socials:
