@@ -1,4 +1,6 @@
 # 💫 About Me:
+👋 Hi, I'm Arnav!<br>I’m a student at NST x ADYPU currently diving deep into software development and system design. I love building tools that make information more accessible.<br><br>🔭 Working on: Improving my Designing Skills.<br><br>🌱 Learning: JavaScript and exploring backend architecture.<br><br>💻 Tech Stack: Python, HTML/CSS, Go, and JavaScript.<br><br>⛰️ Offline Interests: Solo travel and exploring different cultures.<br><br>⚡ Fun Fact: I'm obsessed with solving logic puzzles and complex aptitude challenges.
+<br>
 🔭 Working on: Improving my Designing Skills and Startup.<br><br>🌱 Learning: JavaScript and exploring backend architecture.<br><br>💻 Tech Stack: Python, HTML/CSS, Go, and JavaScript.<br><br>🎸 Offline Interests: Playing Guitar and Playing Badminton.<br><br>⚡ Fun Fact: I'm obsessed with solving logic puzzles and complex aptitude challenges.<br><br>
 
 
